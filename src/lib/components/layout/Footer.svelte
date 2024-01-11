@@ -6,7 +6,10 @@
 
 <div class="flex justify-between place-items-center">
 	<p class="dark:text-zinc-400">
-		<a class="text-pink-500 dark:text-pink-300 underline" href="/LICENSE">MIT License</a>
+		<a
+			class="text-pink-500 dark:text-pink-300 underline"
+			href="https://github.com/BaldursGay/website/blob/main/LICENSE">MIT License</a
+		>
 		&copy; 2023
 	</p>
 
